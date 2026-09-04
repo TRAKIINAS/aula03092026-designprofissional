@@ -58,3 +58,26 @@ git add .
 git commit -m "Descrição"
 git push origin main
 ```
+## Citações
+
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+
+## Tabelas
+
+| Tecnologia | Finalidade |  |  |  |
+| :--- | ---: | :---: | :---: | :---: |
+| Git | Controle de versões |
+| GitHub | Hospegaem e colaboração | Markdown | Documentação |
+
+| Alinhado à esquerda | Alinhado ao centro | Alinhado à direita |
+| :--- | :---: | ---: |
+| texto | texto | texto |
+
+## imagems
+![Macaco](./imagens/images.jpg)
+
+![macaco2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRNnkrgqJ4fLl2SpIPkxTc51Ee9IGj3jdAiP-SZXN_EA&s=10)
+
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+
+![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge)
